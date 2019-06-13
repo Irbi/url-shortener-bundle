@@ -1,0 +1,3 @@
+services:
+  irbi\UrlShortenerBundle\Controller\EncodeController:
+    autoconfigure: true
